@@ -13,6 +13,8 @@ tweepy = "*"
 basilica = "*"
 python-dotenv = "*"
 scikit-learn = "*"
+psycopg2-binary = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
